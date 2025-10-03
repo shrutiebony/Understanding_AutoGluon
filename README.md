@@ -1,4 +1,4 @@
-### Exploring AutoGluon
+### Understanding AutoGluon
 AutoGluon is an open-source Python library that automates the end-to-end machine learning (ML) pipeline. It enables users to build high-performance predictive models with minimal effort, making advanced ML accessible without deep expertise.
 AutoGluon provides high-level APIs that simplify:
 1) Data Preprocessing (cleaning, handling missing values, feature scaling)
