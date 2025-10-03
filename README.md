@@ -12,7 +12,7 @@ This repository demonstrates different functionalities of AutoGluon through orga
 
 #### Repository Structure
 AutoGluon/
-1) │── Colab_Set_1/              # Beginner-friendly notebooks to explore AutoGluon basics
+1) │── First_Time_Simple_Autogluon              # Beginner-friendly notebooks to explore AutoGluon basics
 2) │── ImageSegmentation/        # Computer Vision tasks: image segmentation workflows
 3) │── SegmentationMatching/     # Matching & similarity tasks using segmentation features
 4) │── TextClassification/       # NLP workflows: sentiment analysis, text categorization
