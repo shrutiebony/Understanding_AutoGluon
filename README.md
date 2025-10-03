@@ -21,7 +21,7 @@ AutoGluon/
 7) │── README.md                 # Project documentation
 
 
-###Folder Descriptions
+### Folder Descriptions
 ####  1. Colab_Set_1
 Introductory Google Colab notebooks for AutoGluon.
 Covers classification and regression basics using tabular datasets.
